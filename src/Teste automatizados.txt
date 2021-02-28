@@ -1,0 +1,9 @@
+Teste automatizados
+
+1 - Testes unitários - utilizado normalmente no desenvolvimento do tdd (começa a desenvolver o código voltado a testes)
+
+2 - Testes de integração - Teste a funcionalidade completa da aplicação
+    request -> routes -> controller -> repository
+    <- repository <- controller <- routes <- response
+
+3 - Teste ponta a ponta (end to end) - Testa toda ação do usuario em uma aplicação, mais utilizado no front-end
